@@ -1,0 +1,12 @@
+
+Telethon Systems
+
+	This consists of 3 parts/versions:
+		1. ETS (2 forms; using System.IO for generating/reading files)
+		2. ETS_Class (contains classes: Donation/s, Donor/s, Person, Prize/s, Sponsor/s, & ETS Manager as 
+			the driver)
+		3. ETSClassLibrary (contains classes)
+
+Here is the link:
+
+	https://drive.google.com/file/d/1r0OHi0ZFocCKcMpH3JIswhcfB5NH2E49/view?usp=sharing
